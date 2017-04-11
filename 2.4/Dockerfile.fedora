@@ -1,4 +1,4 @@
-FROM registry.fedoraproject.org/f25/s2i-base
+FROM registry.fedoraproject.org/f25/s2i-base:latest
 
 # This image provides a Ruby 2.4 environment you can use to run your Ruby
 # applications.
